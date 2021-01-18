@@ -1,2 +1,2 @@
 # wellcapitalized
-A sandpit for made for fun & development
+A sandpit of fun & development
